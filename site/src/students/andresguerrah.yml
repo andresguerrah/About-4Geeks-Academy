@@ -1,0 +1,129 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Andres
+    last_name: Guerra
+    
+    # Define yourself in 4-5 words
+    motto: I like fun things.
+    
+    # focus
+    focus: Keep growing.
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+      Hombre de 29 años enfocado en especializarce en tecnologia, estudios basicos en colegio Dunalastair y educacion superior como ingeniero comercial en la universidad del desarrollo.
+      Experiencia trabajando en retail y b2b.
+
+      En lo personal tengo vida familiar, amigos y pareja. tambien soy doglover y tengo una hija perruna llamada Tara.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: a@a.com #optional
+    phone: 234 2342 342 #optional
+    website: asd.com #optional
+    linkedin: alandoe #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: example
+    
+    twitter: 'webjeda' #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: English
+        level: Professional 
+
+      - idiom: Spanish
+        level: Professional Native
+
+    # Interests or hobies
+    interests:
+      - item: Climbing
+
+      - item: Painting
+
+      - item: Futbol
+
+# Your previous education
+education:
+    - degree: Ingeniero Comercial
+      university: Universidad del desarrollo
+     
+
+# Your previous job experiences or voluntier
+experiences:
+Project ManagerProject Manager
+Constructora Parque Forestal · Jornada completaConstructora Parque Forestal · Jornada completa
+ago. 2019 - ago. 2021 · 2 años 1 mesago. 2019 - ago. 2021 · 2 años 1 mes
+ChileChile
+- Realizar la gestión estratégica de la empresa, buscando nuevos proyectos de áreas verdes y sector minería, en esta última, principalmente la búsqueda de nuevos clientes para la flota de maquinaria. 
+- Control de flota; estado de equipos, horas trabajadas, facturación y cobro. Además de logística y análisis financiero para proyectos de áreas verdes. 
+- Hacer evaluaciones sistemáticas de las distintas áreas del negocio, áreas verdes y minería, para desarrollar estrategias y cumplimiento de objetivos.
+- Gestión de recursos, servicios y procesos de la empresa, además del análisis de los problemas y soluciones de estos.- Realizar la gestión estratégica de la empresa, buscando nuevos proyectos de áreas verdes y sector minería, en esta última, principalmente la búsqueda de nuevos clientes para la flota de maquinaria. - Control de flota; estado de equipos, horas trabajadas, facturación y cobro. Además de logística y análisis financiero para proyectos de áreas verdes. - Hacer evaluaciones sistemáticas de las distintas áreas del negocio, áreas verdes y minería, para desarrollar estrategias y cumplimiento de objetivos. - Gestión de recursos, servicios y procesos de la empresa, además del análisis de los problemas y soluciones de estos.… ver más
+Logotipo de Colgram S.A.
+
+
+Category ManagerCategory Manager
+Colgram S.A.Colgram S.A.
+sept. 2018 - jul. 2019 · 11 mesessept. 2018 - jul. 2019 · 11 meses
+Santiago, Región Metropolitana de Santiago, ChileSantiago, Región Metropolitana de Santiago, Chile
+- Estudios y conocimientos de mercados y precios, con el fin de llegar a nuevas propuestas y estrategias para llegar a las metas de ventas y contribución.
+- Preparar y enviar informes diarios de ventas a Product Manager para su respectivo análisis de ventas y conocer cómo se comporta la venta de los productos de acuerdo a definición de plan comercial, haciendo un análisis de resultados y KPI.
+- Encargado en definiciones e implementación de campañas comerciales para aumentar el margen de venta de la marca y definir e implementar promociones para subcategorías.
+- Apoyo en seguimiento y control de las ventas, además de recoger comentarios de acuerdo a las colecciones. Y control en los puntos de venta.
+- Generación de archivo para la creación de artículos de la colección en el sistema online y Retail. En esa misma línea, encargado de sub-categorías en diferentes formatos de e-commerce.
+- Involucrado en el proceso integral de desarrollo de productos. Además de un análisis de categorías, para su reposición en tiendas entregando lineamientos de esto al planner. 
+- Mantener contacto con proveedores y clientes internacionales para creación campañas específicas y luego entrega de resultados- Estudios y conocimientos de mercados y precios, con el fin de llegar a nuevas propuestas y estrategias para llegar a las metas de ventas y contribución. - Preparar y enviar informes diarios de ventas a Product Manager para su respectivo análisis de ventas y conocer cómo se comporta la venta de los productos de acuerdo a definición de plan comercial, haciendo un análisis de resultados y KPI. - Encargado en definiciones e implementación de campañas comerciales para aumentar el margen de venta de la marca y definir e implementar promociones para subcategorías. - Apoyo en seguimiento y control de las ventas, además de recoger comentarios de acuerdo a las colecciones. Y control en los puntos de venta. - Generación de archivo para la creación de artículos de la colección en el sistema online y Retail. En esa misma línea, encargado de sub-categorías en diferentes formatos de e-commerce. - Involucrado en el proceso integral de desarrollo de productos. Además de un análisis de categorías, para su reposición en tiendas entregando lineamientos de esto al planner. - Mantener contacto con proveedores y clientes internacionales para creación campañas específicas y luego entrega de resultados… ver más
+
+
+ Bengard Marketing Inc
+Sales & Quality Control, Los Ángeles, CASales & Quality Control, Los Ángeles, CA
+Bengard Marketing IncBengard Marketing Inc
+dic. 2017 - jul. 2018 · 8 mesesdic. 2017 - jul. 2018 · 8 meses
+Los Ángeles, California, Estados UnidosLos Ángeles, California, Estados Unidos
+Empresa importadora de frutas desde diferentes países hacia Estados Unidos.
+- Responsable de la inspección y de todos los productos en destino, clasificación y categorización de estos, creación de rankings, envío de reportes y continuo monitoreo de la condición de la fruta en frigorífico.
+- Continuas actualizaciones de calidad y condición de arribo de la fruta directamente con el departamento de ventas, para analizar su venta a los distintos canales de distribución. Además del análisis de resultados para venta estratégica determinando precio y clientes.Empresa importadora de frutas desde diferentes países hacia Estados Unidos. - Responsable de la inspección y de todos los productos en destino, clasificación y categorización de estos, creación de rankings, envío de reportes y continuo monitoreo de la condición de la fruta en frigorífico. - Continuas actualizaciones de calidad y condición de arribo de la fruta directamente con el departamento de ventas, para analizar su venta a los distintos canales de distribución. Además del análisis de resultados para venta estratégica determinando precio y clientes.… ver más
+
+
+Work & HolidayWork & Holiday
+Work & Holiday AustraliaWork & Holiday Australia
+mar. 2017 - oct. 2017 · 8 mesesmar. 2017 - oct. 2017 · 8 meses
+AustraliaAustralia
+Esta experiencia trabajando en Australia con el programa de Work & Holiday me permitió adquirir prácticas laborales, al mismo tiempo de empaparme de diversas culturas en ciudades multiculturales, lo que fue muy enriquecedor en lo personal y profesional. 
+Esto me ayudó a desenvolverme con mayor soltura, tanto en el idioma como en el desarrollo de relaciones interpersonales, de lo que he aprendido significativamente en diferentes aspectos de mi vida personal. 
+Fue una oportunidad excepcional el poder formarme a nivel profesional en otro país, con otras culturas y rutinas de trabajo. Además, pude desarrollar madurez y una visión más amplia, lo que he podido aplicar en el ámbito profesional después de esa experiencia.Esta experiencia trabajando en Australia con el programa de Work & Holiday me permitió adquirir prácticas laborales, al mismo tiempo de empaparme de diversas culturas en ciudades multiculturales, lo que fue muy enriquecedor en lo personal y profesional. Esto me ayudó a desenvolverme con mayor soltura, tanto en el idioma como en el desarrollo de relaciones interpersonales, de lo que he aprendido significativamente en diferentes aspectos de mi vida personal. Fue una oportunidad excepcional el poder formarme a nivel profesional en otro país, con otras culturas y rutinas de trabajo. Además, pude desarrollar madurez y una visión más amplia, lo que he podido aplicar en el ámbito profesional después de esa experiencia.… ver más
+Practicante en área de Logistíca y OperacionesPracticante en área de Logistíca y Operaciones
+FRUSAN AGRO SACFRUSAN AGRO SAC
+ago. 2015 - dic. 2015 · 5 mesesago. 2015 - dic. 2015 · 5 meses
+Santiago, Región Metropolitana de Santiago, ChileSantiago, Región Metropolitana de Santiago, Chile
+- Dar soporte en las áreas de aseguramiento de calidad, mantención, ingeniería & proyectos, control de procesos y producción. 
+
+
+skills:
+    toolset:
+      - name: Python & Django
+        level: 0%
+
+      - name: Javascript & jQuery
+        level: 50%
+
+
+      - name: HTML5 & CSS
+        level: 95%
+
